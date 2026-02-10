@@ -20,7 +20,7 @@ public class PokeApiClient : IPokeApiClient
     public async Task<ResultObject> GetAllPokemons(PaginationParameter parameters)
     {
         return JsonConvert.DeserializeObject<ResultObject>(
-            await _httpClient.GetStringAsync($"pokemon?offset={parameters.Offset}&limit={parameters.PageSize}"));
+            await _httpClient.GetStringAsync($"pokemon?limit={parameters.PageSize}&offset={parameters.Offset}"));
 
     }
 }

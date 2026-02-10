@@ -1052,3 +1052,4 @@
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Client/obj/Debug/net8.0/refint/BlazorPokedex.Client.dll
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Client/obj/Debug/net8.0/BlazorPokedex.Client.pdb
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Client/obj/Debug/net8.0/ref/BlazorPokedex.Client.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Client/obj/Debug/net8.0/BlazorPokedex.Client.sourcelink.json

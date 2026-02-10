@@ -10,3 +10,4 @@
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/refint/BlazorPokedex.Models.dll
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.pdb
 /Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/ref/BlazorPokedex.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.sourcelink.json
