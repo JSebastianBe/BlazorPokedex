@@ -1,0 +1,12 @@
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/bin/Debug/net8.0/BlazorPokedex.Models.deps.json
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/bin/Debug/net8.0/BlazorPokedex.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/bin/Debug/net8.0/BlazorPokedex.Models.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.csproj.AssemblyReference.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.AssemblyInfoInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.AssemblyInfo.cs
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.csproj.CoreCompileInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/refint/BlazorPokedex.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/BlazorPokedex.Models.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Models/obj/Debug/net8.0/ref/BlazorPokedex.Models.dll

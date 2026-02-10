@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Blazor POKEDEX (WebAssembly)",
+      "type": "blazorwasm",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/BlazorPokedex.Client",
+      "url": "http://localhost:5298",
+      "webRoot": "${workspaceFolder}/BlazorPokedex.Client/wwwroot"
+    }
+  ]
+}

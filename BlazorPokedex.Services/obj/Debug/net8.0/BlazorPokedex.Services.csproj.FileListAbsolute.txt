@@ -1,0 +1,15 @@
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/bin/Debug/net8.0/BlazorPokedex.Services.deps.json
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/bin/Debug/net8.0/BlazorPokedex.Services.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/bin/Debug/net8.0/BlazorPokedex.Services.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/bin/Debug/net8.0/BlazorPokedex.Models.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/bin/Debug/net8.0/BlazorPokedex.Models.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.csproj.AssemblyReference.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.AssemblyInfoInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.AssemblyInfo.cs
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.csproj.CoreCompileInputs.cache
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPo.C48C3CAA.Up2Date
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/refint/BlazorPokedex.Services.dll
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/BlazorPokedex.Services.pdb
+/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/obj/Debug/net8.0/ref/BlazorPokedex.Services.dll

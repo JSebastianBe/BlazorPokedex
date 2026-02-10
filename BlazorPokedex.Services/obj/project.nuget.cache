@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sB7+4b8dzGY=",
+  "success": true,
+  "projectFilePath": "/Users/jusebema/Documents/RepositoriosGit/Curso Blazor/BlazorPokedex/BlazorPokedex.Services/BlazorPokedex.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/jusebema/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

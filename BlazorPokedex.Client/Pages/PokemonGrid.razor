@@ -1,0 +1,30 @@
+﻿@using Models
+
+@if(Pokemons == null || !Pokemons.Any())
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <div>
+        @for(int i = 0; i<NumberOfRows; i++){
+            <div class="row">
+                @foreach(var pokemon in Pokemons.Skip(i * 10).Take(10))
+                {
+                    <div class="card pokeCard mb-4 bg-@(pokemon.Types.FirstOrDefault().Types.Name ?? "normal")">
+                        <div class="card-body">
+                            <h4 class="card-title">@pokemon.Name</h4>
+                            <img src="@pokemon.Sprites.FrontDefault" alt="@pokemon.Name" />
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+}
+@code {
+    [Parameter]
+    public IEnumerable<Pokemon> Pokemons { get; set; }
+    [Parameter]
+    public int NumberOfRows { get; set; }
+}
