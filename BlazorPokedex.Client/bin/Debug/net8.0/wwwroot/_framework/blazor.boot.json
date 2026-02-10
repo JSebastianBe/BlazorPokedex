@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorPokedex.Client",
   "resources": {
-    "hash": "sha256-UW2SUPB0ib/Q3FYbjzSUT1C0GJvO8l17CcbnOYMl8oM=",
+    "hash": "sha256-CNv/E+Vyw9anjWIFSlVtvuCM8P2ZhxZEhMJQLqH6guY=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.dvtnw8vgzq.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -209,14 +209,14 @@
       "mscorlib.wasm": "sha256-KvqZaNpjwhrOuzE4b4aMFsI+VUTyiWfoDI4zn4l9BM8=",
       "netstandard.wasm": "sha256-v+s7sWxtOM6bnOvC0jFrtnm6uMfbDymwl2nHNgbS2LM=",
       "System.Private.CoreLib.wasm": "sha256-pklll63uFQoY6vaD3vbluS9osYiJWLLLmob1yHFgepI=",
-      "BlazorPokedex.Models.wasm": "sha256-yuTH98JrzUbSEvo6ZzRGwNZ6axw7QATMOU927Yo4K84=",
-      "BlazorPokedex.Services.wasm": "sha256-1I4mjXw7qRJ0c+jhhe/Uk7qDxWJIpDI8MtZSpSQ6gR0=",
-      "BlazorPokedex.Client.wasm": "sha256-y0LZNVT9/Gg6aHOVK10VqehVIiIumuJaZTsyjP+wO/Q="
+      "BlazorPokedex.Models.wasm": "sha256-i8ig/cXRYuXX2Mu1sMWcEOoqIhU8hDsz4FlcWMmX7G4=",
+      "BlazorPokedex.Services.wasm": "sha256-WkgT4GYLJsB0Ta5BpgkohiCtBUKnY/dGTf9+KBM+xSM=",
+      "BlazorPokedex.Client.wasm": "sha256-KbG/s0SQiNT1yvFFX68rY103hqyUXrrTFe5skG3TqV0="
     },
     "pdb": {
-      "BlazorPokedex.Models.pdb": "sha256-DuZy102JyGajAjFCaD9gf5/NgJ/Wwxn7rDArX2DagKA=",
-      "BlazorPokedex.Services.pdb": "sha256-xVYRTJ5ape52xy1xDvu8H/A0bZvqxxW9arEYh4vED/I=",
-      "BlazorPokedex.Client.pdb": "sha256-ydKX+oirW9yku7o1P4Xxfa4T3kfkAalsceKBOXTKzRA="
+      "BlazorPokedex.Models.pdb": "sha256-Zg7i0+qMFj4Bl2taKXr7aNjbFeKE8uJ6pIzeGr/y+PM=",
+      "BlazorPokedex.Services.pdb": "sha256-ykiMa7nWORtR5DgfsxiP+u1eSSi+2dec4BBHqHn1rkg=",
+      "BlazorPokedex.Client.pdb": "sha256-4hJDOdZAaJQ4AumzA8t4ankgIpIjVujtHfqs89aZ8wI="
     }
   },
   "cacheBootResources": true,

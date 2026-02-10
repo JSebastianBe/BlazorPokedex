@@ -1,0 +1,45 @@
+﻿@using Models
+@using Services
+@inject IPokeApiClient PokeApiClient
+@page "/pokeDetails/{name}"
+
+@if(Pokemon == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <div class="row row-align">
+        <div class="col">
+            <div class="mt-2">
+                <h1>@Pokemon.Name.Substring(0,1).ToUpper()@Pokemon.Name.Substring(1)</h1>
+                @foreach(var type in Pokemon.Types)
+                {
+                    <span class="badge border rounded-pill bg-@(type.Types.Name ?? "normal")">@type.Types.Name</span>
+                }
+            </div>
+            <ul class="list-group list-group-flush mt-4">
+                <li class="list-group-item bg-transparent">ID: @Pokemon.Id</li>
+                <li class="list-group-item bg-transparent">Tamaño: @Pokemon.Height</li>
+                <li class="list-group-item bg-transparent">Peso: @Pokemon.Weight</li>
+                <li class="list-group-item bg-transparent">Experiencia base: @Pokemon.Experience</li>
+            </ul>
+        </div>
+
+        <div class="col-sm-6">
+            <img src="https://img.pokemondb.net/artwork/large/@(Pokemon.Name).jpg" 
+            alt="@Pokemon.Name" class="img-fluid d-block mx-auto" style="width:300px" />
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string name { get; set; }
+    public Pokemon Pokemon { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        Pokemon = await PokeApiClient.GetPokemon(name);
+    }
+}

@@ -13,8 +13,14 @@ else
                 {
                     <div class="card pokeCard mb-4 bg-@(pokemon.Types.FirstOrDefault().Types.Name ?? "normal")">
                         <div class="card-body">
-                            <h4 class="card-title">@pokemon.Name</h4>
+                            <h4 class="card-title">@pokemon.Name.Substring(0,1).ToUpper()@pokemon.Name.Substring(1)</h4>
                             <img src="@pokemon.Sprites.FrontDefault" alt="@pokemon.Name" />
+                        </div>
+                        <div class="moreinfo">
+                            <span class="badge border rounded-pill 
+                                    bg-@(pokemon.Types.FirstOrDefault().Types.Name ?? "normal")">
+                                    <a href="/pokeDetails/@pokemon.Name">Ver más</a>
+                            </span>
                         </div>
                     </div>
                 }
